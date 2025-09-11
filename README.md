@@ -146,6 +146,11 @@ Using **Pandas and Matplotlib**, we:
  📧 sreedharreddy513@gmail.com 
  💼 Aspiring Data Analyst | Passionate about BI and storytelling 
 
+ **Snehal Nalawade**  
+💼 Aspiring Data Analyst | Passionate about BI and storytelling  
+📧 snehalrnalawade2003@gmail.com 
+📍 India 
+
   
  
 
