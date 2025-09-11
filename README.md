@@ -141,7 +141,7 @@ Using **Pandas and Matplotlib**, we:
 
 ## 🙋‍♀️ About Me
 
-** Sreedhar Reddy ** 
+ ###**Sreedhar Reddy** 
  💼 Aspiring Data Analyst | Passionate about BI and storytelling  
  📧 sreedharreddy513@gmail.com 
 
