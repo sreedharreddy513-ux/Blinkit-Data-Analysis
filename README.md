@@ -129,7 +129,7 @@ Using **Pandas and Matplotlib**, we:
 
 ## 📁 Project Structure
 
-📦 Blinkit-Data-Analysis/
+📦 Blinkit-Data-Analysis:-
  
  - 🐍 Python Scripts (EDA.ipynb / analysis.py)
  - 📈 Excel Files (BlinkIT Grocery Data.xlsx)
@@ -140,6 +140,10 @@ Using **Pandas and Matplotlib**, we:
 ---
 
 ## 🙋‍♀️ About Me
+
+ -Sreedhar Reddy
+ - 📧 sreedharreddy513@gmail.com 
+ -  💼 Aspiring Data Analyst | Passionate about BI and storytelling 
 
   **Sreedhar Reddy**
   📧 sreedharreddy513@gmail.com 
