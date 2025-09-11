@@ -130,10 +130,10 @@ Using **Pandas and Matplotlib**, we:
 ## 📁 Project Structure
 
 📦 Blinkit-Data-Analysis/
-├── 📊 PowerBI Dashboard (Blinkit.pbix)
-├── 🐍 Python Scripts (EDA.ipynb / analysis.py)
-├── 📈 Excel Files (BlinkIT Grocery Data.xlsx)
-├── 📄 Documentation (Insights.pdf, README.md)
+ ├── 📊 PowerBI Dashboard (Blinkit.pbix)
+ ├── 🐍 Python Scripts (EDA.ipynb / analysis.py)
+ ├── 📈 Excel Files (BlinkIT Grocery Data.xlsx)
+ ├── 📄 Documentation (Insights.pdf, README.md)
 
 
 ---
@@ -141,6 +141,7 @@ Using **Pandas and Matplotlib**, we:
 ## 🙋‍♀️ About Me
 
 **Sreedhar Reddy** 
+
 💼 Aspiring Data Analyst | Passionate about BI and storytelling  
 📧 sreedharreddy513@gmail.com 
 
